@@ -1,12 +1,29 @@
 {
   "users": [
-   {
-    "firstName": "firstName 1",
-    "lastName": "lastName 1",
-    "imageUrl": "imageUrl 1",
-    "phoneNumber": "phoneNumber 1",
-    "email": "email 1",
-    "id": "1"
-   }
+    {
+      "firstName": "Joe",
+      "lastName": "Hilton",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/3237/3237472.png//",
+      "phoneNumber": "942618273",
+      "email": "email 1",
+      "id": "1"
+    }
+  ]
+
+  "phases": [
+    {
+    "id": 1,
+    "name": "asd",
+    "description": "dsa",
+    "createdDate": "2023-10-28T04:40:20.126",
+    "processes": {
+        "id": 1,
+        "name": "asd",
+        "description": "tuki",
+        "startingDate": "2023-10-28T04:39:45.786",
+        "endingDate": "2023-10-28T04:39:45.786",
+        "status": true
+      }
+    }
   ]
 }
