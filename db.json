@@ -7,6 +7,7 @@
       "phoneNumber": "942618273",
       "email": "email1",
       "id": 1
+    }
   ],
   "phases": [
     {
@@ -17,8 +18,7 @@
       "processID": 1
     }
   ],
-  
-  "process": [
+  "processes": [
     {
       "id": 1,
       "name": "asd",
