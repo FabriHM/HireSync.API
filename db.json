@@ -6,27 +6,19 @@
       "imageUrl": "https://cdn-icons-png.flaticon.com/512/3237/3237472.png",
       "phoneNumber": "942618273",
       "email": "email1",
-      "id": "1"
-    }
+      "id": 1
   ],
   "phases": [
     {
       "id": 1,
       "name": "asd",
       "description": "dsa",
-      "createdDate": "2023-10-28T04:40:20.126"
-      "process": {
-            "id": 1,
-            "name": "asd",
-            "description": "tuki",
-            "startingDate": "2023-10-28T04:39:45.786",
-            "endingDate": "2023-10-28T04:39:45.786",
-            "status": true
-        }
+      "createdDate": "2023-10-28T04:40:20.126",
+      "processID": 1
     }
   ],
   
-  "processes": [
+  "process": [
     {
       "id": 1,
       "name": "asd",
