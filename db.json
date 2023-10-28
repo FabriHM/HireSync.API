@@ -15,17 +15,14 @@
       "name": "asd",
       "description": "dsa",
       "createdDate": "2023-10-28T04:40:20.126",
-      "processID": 1
-    }
-  ],
-  "processes": [
-    {
-      "id": 1,
-      "name": "asd",
-      "description": "tuki",
-      "startingDate": "2023-10-28T04:39:45.786",
-      "endingDate": "2023-10-28T04:39:45.786",
-      "status": true
+      "process": {
+        "id": 1,
+        "name": "asd",
+        "description": "tuki",
+        "startingDate": "2023-10-28T04:39:45.786",
+        "endingDate": "2023-10-28T04:39:45.786",
+        "status": true
+      }
     }
   ]
 }
