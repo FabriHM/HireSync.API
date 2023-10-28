@@ -10,18 +10,6 @@
     }
   ],
 
-{
-  "users": [
-    {
-      "firstName": "Joe",
-      "lastName": "Hilton",
-      "imageUrl": "https://cdn-icons-png.flaticon.com/512/3237/3237472.png",
-      "phoneNumber": "942618273",
-      "email": "email1",
-      "id": "1"
-    }
-  ],
-
   "phases": [
     {
       "id": 1,
@@ -39,6 +27,4 @@
         }
     }
   ]
-}
-
 }
