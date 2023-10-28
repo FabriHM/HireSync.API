@@ -14,15 +14,7 @@
     {
       "id": 1,
       "name": "asd",
-      "description": "dsa",
-      "processes": [
-        {
-          "id": 1,
-          "name": "asd",
-          "description": "tuki",
-          "status": true
-        }
-      ]
+      "description": "dsa"
     }
   ]
 }
